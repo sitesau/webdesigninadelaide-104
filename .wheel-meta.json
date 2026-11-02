@@ -1,0 +1,22 @@
+{
+  "wheel_id": 679,
+  "structure": "umbrella",
+  "slug": "webdesigninadelaide-104",
+  "project": "web-design-adelaide-budget-tips-064cd1298f35a3702805204665c1708",
+  "parent_t1_ref": "webdesigninadelaide-151",
+  "node_role": "feeder",
+  "money_target": "webdesigninadelaide.com.au",
+  "primary_kw": "web design adelaide budget tips",
+  "intended_url": "https://aumedia.neocities.org/web-design-adelaide-budget-tips-064cd1298f35a3702805204665c1708/",
+  "tier": "T2",
+  "writeback_nonce": "ba7ccdc5fcb46c85",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/webdesigninadelaide-151/",
+      "anchor": "Web Design Adelaide Local Options Compared: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
